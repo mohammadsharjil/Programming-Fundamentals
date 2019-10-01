@@ -1,8 +1,12 @@
 # Programming-Fundamentals
-Semester Projects
+Semester Projects 2015
 
-1 Semester Practicing Projects
+1 Semester Projects and other practicing projects
 
-Projects based on windows form and consol based.
+Projects based on windows form and console based.
 
 program language : C#
+
+
+Project Name: Hangman
+
